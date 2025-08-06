@@ -6,15 +6,9 @@
 
 ## 🔗 Live Demo
 
-🌐 
+🌐 https://payzo-kappa.vercel.app/
 
 > Hosted on [Vercel](https://vercel.com) for fast, serverless deployment.
-
----
-
-## 📸 Preview
-
-> _(Add a screenshot or demo GIF here showing your homepage or main UI)_
 
 ---
 
@@ -23,9 +17,7 @@
 - ⚡ Built with **Next.js 15** and **Turbopack** for ultra-fast dev experience
 - 💡 Powered by **React 19** and **TypeScript** for scalable UI architecture
 - 🎨 Fully responsive UI using **Tailwind CSS v4**
-- 🎉 Fun animations with **js-confetti**
 - 📦 Clean project structure and reusable components
-- 🚀 Easily deployable to Vercel, Render, or Netlify
 
 ---
 
@@ -37,8 +29,7 @@
 | Language       | TypeScript      |
 | UI Library     | React 19        |
 | Styling        | Tailwind CSS v4 |
-| Animation      | js-confetti     |
-| Build Tool     | Turbopack       |
+|  Tool          | Turbopack       |
 | Hosting        | Vercel          |
 
 ---
@@ -47,7 +38,7 @@
 
 ### Prerequisites
 - Node.js (v18 or newer)
-- npm or yarn
+- npm 
 
 ### Installation
 
